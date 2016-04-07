@@ -28,7 +28,7 @@ colorscheme solarized
 " for keeping undo history after closing Vim entirely. Vim will complain if you
 " try to quit without saving, and swap files will keep you safe if your computer
 " crashes.
-set hidden
+"set hidden
  
 " Note that not everyone likes working this way (with the hidden option).
 " Alternatives include using tabs or split windows instead of re-using the same
